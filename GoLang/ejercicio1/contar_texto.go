@@ -1,4 +1,5 @@
 //Ejercicio 1: Contar número de caracteres, palabras y líneas de un texto.
+//copiar y pegar texto en terminal
 
 package main
 
