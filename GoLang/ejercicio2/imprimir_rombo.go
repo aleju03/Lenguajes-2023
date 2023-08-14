@@ -1,9 +1,9 @@
 /*Ejercicio 2: Imprimir la figura de un rombo con asteriscos de la manera más eficiente.
-		  *
-       *  *  *
-	*  *  *  *  *
-       *  *  *
-		  *
+	*
+     *  *  *
+  *  *  *  *  *
+     *  *  *
+	*
 */
 
 package main
