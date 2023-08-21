@@ -58,7 +58,7 @@ func (l *listaProductos) venderProducto(nombre string, cantidad int) {
 		}
 		if indice != -1 {
 			(*l)[indice].cantidad -= cantidad
-			// Remove product from list if quantity is 0 or less
+			// Eliminar producto si la cantidad es -= 0
 			if (*l)[indice].cantidad <= 0 {
 				(*l) = append((*l)[:indice], (*l)[indice+1:]...)
 				fmt.Println("Producto", nombre, "agotado y eliminado de la lista.")
