@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZJkiuMycef5p2yWr4OFqI9KV8Cm+AK946AjmIorpYDWRtF8xUkaSFLioztIpiQ3WXZatSugaXJ5jvWoQzdf/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleji\\OneDrive\\Desktop\\Clases\\Semestre II 2023\\Lenguajes\\Repo F#\\Ejercicios_FSharp\\Ejercicios_FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleji\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

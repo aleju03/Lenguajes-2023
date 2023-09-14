@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Ejercicio1.fs" />
+        <Compile Include="Ejercicio2.fs" />
+        <Compile Include="Ejercicio3.fs" />
+        <Compile Include="Ejercicio4.fs" />
+        <Compile Include="Ejercicio5.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
