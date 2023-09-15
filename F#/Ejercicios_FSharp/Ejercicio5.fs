@@ -5,7 +5,7 @@
 let miembro elem lista =
     List.exists (fun x -> x = elem) lista
 
-// Representación del laberinto como grafo
+// Representación del laberinto como grafo (el mismo laberinto que viene en la práctica)
 let grafo_laberinto = [ //[nodo, [vecinos]]
     (1, [7]); (2, [3; 8]); (3, [2; 4; 9]);
     (4, [3; 10]); (5, [6; 11]); (6, [5]);
