@@ -11,7 +11,7 @@ let desplazar direccion n lista =
     else
         match direccion with
         | "izq" -> 
-            // Tomamos los elementos desde el índice n hasta el final y añadimos n ceros al final
+            // Tomar los elementos desde el índice n hasta el final y añadir n ceros al final
             (List.skip n lista) @ [for _ in 0 .. (n - 1) -> 0]
         | "der" -> 
             // Tomar los primeros (longitud - n) elementos y añadir n ceros al principio
