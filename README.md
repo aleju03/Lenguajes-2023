@@ -1,2 +1,2 @@
 # Lenguajes de programación
-Curso de Lenguajes Semestre 2 2023
+Repositorio para el curso de Lenguajes, Semestre 2 2023, donde se suben ejercicios de práctica
